@@ -3,3 +3,8 @@ p {
     font-size: 30px;
     font-format: Helvetica, serif
 }
+
+img {
+    height: 200px;
+    width: 250px;
+}
