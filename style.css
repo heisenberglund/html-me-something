@@ -1,10 +1,12 @@
 p {
-    color: yellow;
+    color: #000000;
     font-size: 15px;
-    font-format: Helvetica, serif
+    font-format: Helvetica, serif;
+    margin: 25px 400px;
 }
 
 img {
-    height: 200px;
+    height: 175px;
     width: 250px;
 }
+
