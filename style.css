@@ -1,6 +1,6 @@
 p {
     color: #000000;
-    font-size: 15px;
+    font-size: 25px;
     font-family: Helvetica, serif;
     margin: 25px 400px;
 }
@@ -16,6 +16,7 @@ img {
 
 ul {
     list-style-type: none;
+    font-size: 25px
 }
 
 #course {
