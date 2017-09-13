@@ -1,7 +1,7 @@
 p {
     color: #000000;
     font-size: 15px;
-    font-format: Helvetica, serif;
+    font-family: Helvetica, serif;
     margin: 25px 400px;
 }
 
@@ -10,3 +10,6 @@ img {
     width: 250px;
 }
 
+ul {
+    list-style-type: none;
+}
