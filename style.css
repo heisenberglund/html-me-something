@@ -27,3 +27,8 @@ ul {
 footer {
     text-align: right;
 }
+
+.styling {
+    border: 1px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
