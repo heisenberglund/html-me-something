@@ -9,7 +9,20 @@ img {
     height: 175px;
     width: 250px;
 }
+#disc {
+    height: 150px;
+    width: 250px
+}
 
 ul {
     list-style-type: none;
+}
+
+#course {
+    height: 300px;
+    width: 300px
+}
+
+footer {
+    text-align: right;
 }
