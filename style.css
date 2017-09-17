@@ -1,5 +1,15 @@
+body {
+    background-color: #1A631A
+
+}
+
+header {
+    font-size: 20px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
 p {
-    color: #000000;
+    color: #FFFFFF;
     font-size: 25px;
     font-family: Helvetica, serif;
     margin: 25px 300px;
@@ -30,6 +40,10 @@ footer {
 }
 
 .styling {
-    border: 1px solid black;
     font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+iframe {
+    height:400px;
+    width: 500px
 }
